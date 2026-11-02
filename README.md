@@ -1,2 +1,2 @@
 # Socmed-Tracking-System
-# Copy rigth by Gokulnath
+# Copyrigth by Gokulnath
